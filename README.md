@@ -126,18 +126,6 @@ Shipping:             30.0
 Total Amount Paid:    430.0
 Remaining Balance:    [Calculated Balance]
 
-🤝 Contributing
-This project was created for an internship challenge, but contributions or suggestions are welcome.
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/NewFeature)
-
-Commit your Changes (git commit -m 'Add some NewFeature')
-
-Push to the Branch (git push origin feature/NewFeature)
-
-Open a Pull Request
 
 👨‍💻 Author
 Ayman Ashraf
